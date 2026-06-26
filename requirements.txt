@@ -1,1 +1,2 @@
-fastapi==0.138.0
+fastapi==0.138.1
+SQLAlchemy==2.0.51
